@@ -1,0 +1,30 @@
+.container-user{
+    height: 400px;
+    width: 300px;
+    margin: 0px auto 0px auto;
+    margin-top: 100px;
+    background-color: rgba(255, 255, 255, 0.3);
+    border-radius: 15px;
+    padding: 10px;
+}
+
+body{
+    background-color: #4cbbb9;
+}
+
+form{
+    font-family: Helvetica;
+    color: white;
+    text-align: center;
+}
+
+input{
+    padding: 10px;
+    margin-bottom: 1px;
+}
+
+button{
+    margin-top: 10px;
+    padding: 10px;
+    margin: 20px;
+}
